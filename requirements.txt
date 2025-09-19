@@ -1,0 +1,20 @@
+# Core libraries
+streamlit
+python-dotenv
+langdetect
+openai
+requests
+
+# LangChain and vector store
+langchain
+langchain-community
+faiss-cpu  # For vector similarity search
+
+# Optional (for ArxivLoader to work correctly)
+arxiv
+
+# CrewAI (for agent orchestration)
+crewai
+
+# For typing and compatibility
+typing-extensions
